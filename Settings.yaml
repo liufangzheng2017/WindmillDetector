@@ -1,0 +1,16 @@
+%YAML:1.0
+
+ColourIsRed: 0
+VideoPath: "/home/liufangzheng2019/Projects/C++/RM2020-WindmillDetection/LB_Off.mov"
+ColourThresLBlueS: 0
+ColourThresLBlueV: 240
+ColourThresHBlueH: 180
+ColourThresHBlueS: 127
+ColourThresHBlueV: 255
+
+BoundingAreaMin: 700
+BoundingAreaMax: 3000
+BiasXMax: 20
+BiasYMax: 20
+HwRatioMax: 2
+Delayer: 6
